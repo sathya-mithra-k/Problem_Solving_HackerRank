@@ -6,4 +6,5 @@ List of problems:<br/>
 5.finding the ratio of positive numbers, negative numbers and zeroes in a array.<br/>
 6.printing a stair case pattern.<br/>
 7.Finding the number of candles with max length among the placed candle on a birthday cake.<br/>
-8.Printing staircase pattern.
+8.Printing staircase pattern.<br/>
+9.Conversion of standard time into military time.
