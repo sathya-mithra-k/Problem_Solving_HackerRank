@@ -9,4 +9,5 @@ List of problems:<br/>
 8.Printing staircase pattern.<br/>
 9.Conversion of standard time into military time.<br/>
 10.Calculate maximum and minimum number from adding elements in an array leaving exactly any one element in the array and find their difference.<br/>
-11. Whether two kangaroo with speed v1,v2 and starting position x1,x2 meet at a common part.
+11. Whether two kangaroo with speed v1,v2 and starting position x1,x2 meet at a common part.<br/>
+12. Finding the count of maximum and minimum points scored by a foot ball player in different matches.(checking how many times she/he broke her record for high and low score).<br/>
